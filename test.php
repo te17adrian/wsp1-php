@@ -14,7 +14,7 @@
 
     echo "<h3>Det är bra att ha koll på datatyper</h3>";
 
-    echo '<a href="https://www.php.net/manual/en/language.types.intro.php">';
+    echo '<a href="https://www.php.net/manual/en/language.types.intro.php"><p> PHP länk </p></a>';
     $tal1 = 13; // integer
     $tal2 = (int) "762"; //string
     $tal3 = true; //boolean
